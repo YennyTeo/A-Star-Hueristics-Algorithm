@@ -30,6 +30,10 @@ Steps to use the maze cleaning robot in your own project:
 5. Use the A* algorithm to find the optimal path for collecting rubbish.
 6. Process the output to collect the rubbish, update the robot's position, and dispose of the rubbish in the disposal nodes.
 
+## Result
+<img width="395" alt="image" src="https://github.com/user-attachments/assets/bc7bd963-2d65-439b-8656-54c82a2c237a">
+
+
 # Dependencies
 The project has the following dependencies:
 * Python 3
